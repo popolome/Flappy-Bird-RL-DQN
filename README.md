@@ -1,5 +1,7 @@
 # Flappy-Bird-RL-DQN
 
+![Flappy Bird DQN](FlappyBird.gif)
+
 A deep Q-learning agent that plays Flappy Bird using PyTorch.
 A mini project, this flappy bird manage to pass thru one pipe most of the time.
 I spent 3-4 hours training it with these hyperparameters that work for me.
